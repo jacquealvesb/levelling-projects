@@ -1,3 +1,3 @@
 # Levelling Projects
 
-Exercícios desenvolvidos durante minha iniciação na linguagem Swift.
+Exercises developed during my initiation in the Swift language.
